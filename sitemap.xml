@@ -1,19 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://ak95am98.github.io/physics-for-circuits/</loc>
-         <lastmod>2025-01-30</lastmod>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/</loc>
+         <lastmod>2026-03-24</lastmod>
     </url>
     <url>
-         <loc>https://ak95am98.github.io/physics-for-circuits/prompts/</loc>
-         <lastmod>2025-01-30</lastmod>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/course-description/</loc>
+         <lastmod>2026-03-24</lastmod>
     </url>
     <url>
-         <loc>https://ak95am98.github.io/physics-for-circuits/prompts/01-course-description/</loc>
-         <lastmod>2025-01-30</lastmod>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/glossary/</loc>
+         <lastmod>2026-03-24</lastmod>
     </url>
     <url>
-         <loc>https://ak95am98.github.io/physics-for-circuits/prompts/02-enumeration/</loc>
-         <lastmod>2025-01-30</lastmod>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/01-electric-charge-basic-quantities/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/02-voltage-current-power/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/03-resistive-circuits-ohms-law/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/04-kirchhoffs-laws/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/05-circuit-analysis-techniques/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/06-capacitors-inductors/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/07-first-order-transient/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/08-second-order-rlc/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/09-sinusoidal-steady-state/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/10-phasors-complex-impedance/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/11-ac-power-analysis/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/12-operational-amplifiers/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/13-frequency-response-bode/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/14-filters/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/15-fourier-series/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/chapters/16-audio-circuits-applications/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/faq/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/learning-graph/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://AK95AM98.github.io/physics-for-circuits/sims/</loc>
+         <lastmod>2026-03-24</lastmod>
     </url>
 </urlset>

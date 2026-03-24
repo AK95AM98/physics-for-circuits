@@ -1,0 +1,18 @@
+/* EE 2015: Circuits for Signal Processing — custom styles */
+
+/* Equation display spacing */
+.arithmatex {
+    overflow-x: auto;
+    padding: 0.5em 0;
+}
+
+/* Chapter table styling */
+.md-typeset table:not([class]) th {
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+}
+
+/* Code block improvements */
+.highlight pre {
+    font-size: 0.85em;
+}
